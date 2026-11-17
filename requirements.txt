@@ -1,0 +1,2 @@
+# Used when the camera encrypts the talk-session JSON response.
+cryptography>=42
